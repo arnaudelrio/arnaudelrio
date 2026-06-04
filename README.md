@@ -9,5 +9,3 @@
 **Languages**: I can speak Catalan, Spanish, English and German.
 
 **Programing**: I've always been interested in programing and I've meddled with quite a few different languages. I'm getting quite interested in Rust especially.
-
-- 📫 How to reach me **@arnau.delrio** (instagram)
